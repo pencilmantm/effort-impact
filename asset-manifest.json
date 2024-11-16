@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/effort-impact/static/css/main.cc081e75.css",
-    "main.js": "/effort-impact/static/js/main.6d5f8173.js",
+    "main.js": "/effort-impact/static/js/main.3390fa95.js",
     "static/js/453.f0462b97.chunk.js": "/effort-impact/static/js/453.f0462b97.chunk.js",
     "index.html": "/effort-impact/index.html",
     "main.cc081e75.css.map": "/effort-impact/static/css/main.cc081e75.css.map",
-    "main.6d5f8173.js.map": "/effort-impact/static/js/main.6d5f8173.js.map",
+    "main.3390fa95.js.map": "/effort-impact/static/js/main.3390fa95.js.map",
     "453.f0462b97.chunk.js.map": "/effort-impact/static/js/453.f0462b97.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc081e75.css",
-    "static/js/main.6d5f8173.js"
+    "static/js/main.3390fa95.js"
   ]
 }
